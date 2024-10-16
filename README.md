@@ -1,6 +1,6 @@
 ### Udo Lijour
 
-<p><em>Engineer Student in Cybersecurity at Bordeaux Ynov Campus. Cybersecurity Consultant for Ministère des Armées.</em></p>
+<p><em>Ethical Hacker & CTF Player for LesPiresHat.</em></p>
 
 <table>
 <tr>
